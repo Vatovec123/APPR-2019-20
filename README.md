@@ -5,10 +5,12 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=shiny/APPR-2019-20/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=rstudio) RStudio
 
-## Tematika
+## Analiza spletnega nakupovanja v Sloveniji
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V projektu bom analizirala pogostost spletnega nakupovanja v povezavi s spolom, starostjo in izobrazbo. Kakšen je vpliv stopnje urbanizacije na vrsto izdelka ali storitve in ali uporabnik pred nakupom pridobi informacije o izdelku, ceni, prodajalcu in mnenja drugih kupcev. Cilj projekta je definirati kakšne so kupne navade Slovencev pri uporabi spletne prodaje.
+
+1.tabela
+
 
 ## Program
 

@@ -9,8 +9,6 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
 V projektu bom analizirala pogostost spletnega nakupovanja v povezavi s spolom, starostjo in izobrazbo. Kakšen je vpliv stopnje urbanizacije na vrsto izdelka ali storitve in ali uporabnik pred nakupom pridobi informacije o izdelku, ceni, prodajalcu in mnenja drugih kupcev. Cilj projekta je definirati kakšne so kupne navade Slovencev pri uporabi spletne prodaje.
 
-1.tabela
-
 
 ## Program
 

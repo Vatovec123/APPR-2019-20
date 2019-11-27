@@ -30,6 +30,8 @@ Tabela 5: POGOSTOST ISKANJA INFORMACIJ PRED NAKUPOM
 *	stolpec 1: vrsta informacije
 *	stolpec 2: vrsta izobrazbe
 
+Vir podatkov (v obliki .csv in .html):
+*	https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__23_29_informacijska_druzba__11_IKT_posamezniki__10_29745_e_nakupovanje/?tablelist=true
 
 
 ## Program

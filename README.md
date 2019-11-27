@@ -7,7 +7,29 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
 ## Analiza spletnega nakupovanja v Sloveniji
 
-V projektu bom analizirala pogostost spletnega nakupovanja v povezavi s spolom, starostjo in izobrazbo. Kakšen je vpliv stopnje urbanizacije na vrsto izdelka ali storitve in ali uporabnik pred nakupom pridobi informacije o izdelku, ceni, prodajalcu in mnenja drugih kupcev. Cilj projekta je definirati kakšne so kupne navade Slovencev pri uporabi spletne prodaje.
+V projektu bom analizirala pogostost spletnega nakupovanja v povezavi s spolom, starostjo in izobrazbo. Kakšen je vpliv stopnje urbanizacije na število in vrednost nakupa in ali uporabnik pred nakupom pridobi informacije o izdelku, ceni, prodajalcu in mnenja drugih kupcev. Cilj projekta je definirati kakšne so kupne navade Slovencev pri uporabi spletne prodaje v obdobju od leta 2009 do 2018. Uporabila bom podatke, ki sem jih pridobila na spletni strani Statističnega urada Republike Slovenije. 
+
+Tabela 1: POGOSTOST NAKUPA
+*	stolpec 1: leto
+*	stolpec 2: spol in starostni razredi
+
+Tabela 2: POGOSTOST NAKUPA
+*	stolpec 1: leto
+*	stolpec 2: spol in izobrazba
+
+Tabela 3: VRSTA IZDELKA ALI STORITVE
+*	stolpec 1: vrsta izdelka ali storitve
+*	stolpec 2: leto
+
+Tabela 4: ŠTEVILO IN OCENJENA VREDNOST SPLETNIH NAKUPOV
+*	stolpec 1: leto
+*	stolpec 2: število in ocenjena vrednost nakupa
+*	stolpec 3: stopnja urbanizacije
+
+Tabela 5: POGOSTOST ISKANJA INFORMACIJ PRED NAKUPOM 
+*	stolpec 1: vrsta informacije
+*	stolpec 2: vrsta izobrazbe
+
 
 
 ## Program

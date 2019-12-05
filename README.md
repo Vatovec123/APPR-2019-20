@@ -5,10 +5,34 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=shiny/APPR-2019-20/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=rstudio) RStudio
 
-## Tematika
+## Analiza spletnega nakupovanja v Sloveniji
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V projektu bom analizirala pogostost spletnega nakupovanja v povezavi s spolom, starostjo in izobrazbo. Kakšen je vpliv stopnje urbanizacije na število in vrednost nakupa in ali uporabnik pred nakupom pridobi informacije o izdelku, ceni, prodajalcu in mnenja drugih kupcev. Cilj projekta je definirati kakšne so kupne navade Slovencev pri uporabi spletne prodaje v obdobju od leta 2009 do 2018. Uporabila bom podatke, ki sem jih pridobila na spletni strani Statističnega urada Republike Slovenije. 
+
+Tabela 1: POGOSTOST NAKUPA
+*	stolpec 1: leto
+*	stolpec 2: spol in starostni razredi
+
+Tabela 2: POGOSTOST NAKUPA
+*	stolpec 1: leto
+*	stolpec 2: spol in izobrazba
+
+Tabela 3: VRSTA IZDELKA ALI STORITVE
+*	stolpec 1: vrsta izdelka ali storitve
+*	stolpec 2: leto
+
+Tabela 4: ŠTEVILO IN OCENJENA VREDNOST SPLETNIH NAKUPOV
+*	stolpec 1: leto
+*	stolpec 2: število in ocenjena vrednost nakupa
+*	stolpec 3: stopnja urbanizacije
+
+Tabela 5: POGOSTOST ISKANJA INFORMACIJ PRED NAKUPOM 
+*	stolpec 1: vrsta informacije
+*	stolpec 2: vrsta izobrazbe
+
+Vir podatkov (v obliki .csv in .html):
+*	https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__23_29_informacijska_druzba__11_IKT_posamezniki__10_29745_e_nakupovanje/?tablelist=true
+
 
 ## Program
 

@@ -54,6 +54,7 @@ druzine <- uvozi.druzine(levels(obcine$obcina))
 # 2. fazi. Seveda bi morali ustrezno datoteko uvoziti v prihodnjih
 # fazah.
 
+
 starost <- read_csv2("podatki/pogostost-starost.csv", col_names=c("LETO", "POGOSTOST","Moški1624", "Moški2554", "Moški5574","Ženske1624", "Ženske2554","Ženske5574"),
                      skip = 2, n_max = 13, locale=locale(encoding = "Windows-1250"))
 

@@ -5,7 +5,7 @@ Tukaj bomo imeli program, ki bo obdelal, uvozil in očistil podatke (druga faza
 projekta).
 
 starost <- read_csv2("podatki/pogostost-starost.csv", col_names=c("LETO", "POGOSTOST","Moški1624", "Moški2554", "Moški5574","Ženske1624", "Ženske2554","Ženske5574"),
-                       skip = 2, n_max = 13, locale=locale(encoding = "Windows-1250"))
+                     skip = 2, n_max = 13, locale=locale(encoding = "Windows-1250"))
 
 izobrazba <- read_csv2("podatki/pogostost-izobrazba.csv", col_names=c("LETO", "POGOSTOST E-NAKUPOVANJA",
                                                                       "Moški-vsaj OŠ izobrazba", "Moški-srednja izobrazba","Moški-vsaj višješolska izobrazba",

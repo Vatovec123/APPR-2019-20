@@ -20,4 +20,8 @@ vrednost <- read_csv2("podatki/število in ocenjena vrednost-stopnja urbanizacij
                       col_names=c("LETO","ŠTEVILO IN VREDNOST SPLETNIH NAKUPOV","Gosto poseljena območja","Vmesna območja","Redko poseljena območja","Vzhodna Slovenija","Zahodna Slovenija"),
                       skip = 3, n_max = 48, locale=locale(encoding = "Windows-1250"))
 
-
+informacija <- read_csv2("podatki/pogostost iskanja informacij pred nakupom.csv",
+                         col_names=c("LETO","ISKANJE INFORMACIJ NA INTERNETU",
+                                     "Moški-največ OŠ izobrazba","Moški-srednja izobrazba","Moški-vsaj višješolska izobrazba",
+                                     "Ženske-največ OŠ izobrazba","Ženske-srednja izobrazba","Ženske-vsaj višješolska izobrazba"),
+                         skip = 3, n_max = 13, locale=locale(encoding = "Windows-1250"))
